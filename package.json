@@ -1,11 +1,19 @@
 {
   "name": "hennge_challenge_mockup",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "author": {
+    "email": "sihan.iub@gmail.com",
+    "name": "Sihan",
+    "url": "https://www.github.com/sihan010/"
+  },
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/pickers": "4.0.0-alpha.12",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "moment": "^2.29.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
